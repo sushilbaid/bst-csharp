@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BstLib", "BstLib\BstLib.csproj", "{DEF89300-2CA1-410C-B85C-5D9AAD3FA891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BstLib.Tests", "BstLib.Tests\BstLib.Tests.csproj", "{7B10516E-074A-4D32-91F1-8E9783E622F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF89300-2CA1-410C-B85C-5D9AAD3FA891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF89300-2CA1-410C-B85C-5D9AAD3FA891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF89300-2CA1-410C-B85C-5D9AAD3FA891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF89300-2CA1-410C-B85C-5D9AAD3FA891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B10516E-074A-4D32-91F1-8E9783E622F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B10516E-074A-4D32-91F1-8E9783E622F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B10516E-074A-4D32-91F1-8E9783E622F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B10516E-074A-4D32-91F1-8E9783E622F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F60B6C98-61DE-4E58-8747-0EAFD2C268E5}
+	EndGlobalSection
+EndGlobal
