@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Bst.cs" />
     <Compile Include="BstCreator.cs" />
+    <Compile Include="BstVerticalSum.cs" />
     <Compile Include="Node.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
